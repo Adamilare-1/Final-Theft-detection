@@ -5,3 +5,5 @@ joblib>=1.2.0
 matplotlib>=3.6.0
 pillow>=9.3.0
 scikit-learn>=1.2.0
+lightgbm>=3.3.0
+xgboost>=1.7.0  # Add this if you're using XGBoost models
